@@ -13,20 +13,33 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Workspace02\Interrupts\CM0p (Core 0)\Source Files">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Workspace02\Blinky">
 <ExpandedNodeIds>
 <v>Workspace02</v>
+<v>Workspace02\Analog\TopDesign</v>
+<v>Workspace02\Blinky</v>
+<v>Workspace02\Blinky\TopDesign</v>
+<v>Workspace02\Debug\TopDesign</v>
 <v>Workspace02\Interrupts</v>
+<v>Workspace02\Interrupts\TopDesign</v>
 <v>Workspace02\Interrupts\CM0p (Core 0)</v>
 <v>Workspace02\Interrupts\CM0p (Core 0)\Source Files</v>
 <v>Workspace02\Interrupts\CM4 (Core 1)</v>
 <v>Workspace02\Interrupts\CM4 (Core 1)\Source Files</v>
+<v>Workspace02\Printf\TopDesign</v>
+<v>Workspace02\Saleae\TopDesign</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>Workspace02</v>
 <v>Workspace02\Analog</v>
+<v>Workspace02\Blinky</v>
+<v>Workspace02\Blinky\TopDesign</v>
+<v>Workspace02\Blinky\Blinky.cydwr</v>
+<v>Workspace02\Blinky\CM0p (Core 0)</v>
+<v>Workspace02\Blinky\CM4 (Core 1)</v>
+<v>Workspace02\Blinky\Shared Files</v>
+<v>Workspace02\Blinky\Generated_Source</v>
 <v>Workspace02\Debug</v>
-<v>Workspace02\Design01</v>
 <v>Workspace02\Interrupts</v>
 <v>Workspace02\Interrupts\TopDesign</v>
 <v>Workspace02\Interrupts\Interrupts.cydwr</v>
@@ -64,12 +77,12 @@
 <v>Workspace02\Analog</v>
 <v>Workspace02\Analog\TopDesign</v>
 <v>Workspace02\Analog\TopDesign\TopDesign.cysch</v>
+<v>Workspace02\Blinky</v>
+<v>Workspace02\Blinky\TopDesign</v>
+<v>Workspace02\Blinky\TopDesign\TopDesign.cysch</v>
 <v>Workspace02\Debug</v>
 <v>Workspace02\Debug\TopDesign</v>
 <v>Workspace02\Debug\TopDesign\TopDesign.cysch</v>
-<v>Workspace02\Design01</v>
-<v>Workspace02\Design01\TopDesign</v>
-<v>Workspace02\Design01\TopDesign\TopDesign.cysch</v>
 <v>Workspace02\Interrupts</v>
 <v>Workspace02\Interrupts\TopDesign</v>
 <v>Workspace02\Interrupts\TopDesign\TopDesign.cysch</v>
@@ -85,12 +98,12 @@
 <v>Workspace02\Analog</v>
 <v>Workspace02\Analog\TopDesign</v>
 <v>Workspace02\Analog\TopDesign\TopDesign.cysch</v>
+<v>Workspace02\Blinky</v>
+<v>Workspace02\Blinky\TopDesign</v>
+<v>Workspace02\Blinky\TopDesign\TopDesign.cysch</v>
 <v>Workspace02\Debug</v>
 <v>Workspace02\Debug\TopDesign</v>
 <v>Workspace02\Debug\TopDesign\TopDesign.cysch</v>
-<v>Workspace02\Design01</v>
-<v>Workspace02\Design01\TopDesign</v>
-<v>Workspace02\Design01\TopDesign\TopDesign.cysch</v>
 <v>Workspace02\Interrupts</v>
 <v>Workspace02\Interrupts\TopDesign</v>
 <v>Workspace02\Interrupts\TopDesign\TopDesign.cysch</v>
@@ -182,6 +195,73 @@
 <v>Workspace02\Analog\Analog.gpdsc</v>
 <v>Workspace02\Analog\Analog.rpt</v>
 <v>Workspace02\Analog\Analog_timing.html</v>
+<v>Workspace02\Blinky</v>
+<v>Workspace02\Blinky\CortexM0p</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_config.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc62_cm0plus.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc62_cm0plus.lst</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Blinky.elf</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Blinky.hex</v>
+<v>Workspace02\Blinky\CortexM0p\ARM_GCC_541\Debug\Blinky.map</v>
+<v>Workspace02\Blinky\CortexM4</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_config.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc62_cm4.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc62_cm4.lst</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Blinky.elf</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Blinky.hex</v>
+<v>Workspace02\Blinky\CortexM4\ARM_GCC_541\Debug\Blinky.map</v>
+<v>Workspace02\Blinky\Blinky.gpdsc</v>
+<v>Workspace02\Blinky\Blinky.rpt</v>
+<v>Workspace02\Blinky\Blinky_timing.html</v>
 <v>Workspace02\Debug</v>
 <v>Workspace02\Debug\CortexM0p</v>
 <v>Workspace02\Debug\CortexM0p\ARM_GCC_541</v>
@@ -249,73 +329,6 @@
 <v>Workspace02\Debug\Debug.gpdsc</v>
 <v>Workspace02\Debug\Debug.rpt</v>
 <v>Workspace02\Debug\Debug_timing.html</v>
-<v>Workspace02\Design01</v>
-<v>Workspace02\Design01\CortexM0p</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_config.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc62_cm0plus.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc62_cm0plus.lst</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Design01.elf</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Design01.hex</v>
-<v>Workspace02\Design01\CortexM0p\ARM_GCC_541\Debug\Design01.map</v>
-<v>Workspace02\Design01\CortexM4</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_config.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\main_cm4.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\startup_psoc62_cm4.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Listing Files\system_psoc62_cm4.lst</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Design01.elf</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Design01.hex</v>
-<v>Workspace02\Design01\CortexM4\ARM_GCC_541\Debug\Design01.map</v>
-<v>Workspace02\Design01\Design01.gpdsc</v>
-<v>Workspace02\Design01\Design01.rpt</v>
-<v>Workspace02\Design01\Design01_timing.html</v>
 <v>Workspace02\Interrupts</v>
 <v>Workspace02\Interrupts\CortexM0p</v>
 <v>Workspace02\Interrupts\CortexM0p\ARM_GCC_541</v>
@@ -545,51 +558,6 @@
 <VisibleNodeIds>
 <v>Workspace02</v>
 <v>Workspace02\Analog</v>
-<v>Workspace02\Analog\CortexM0p</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC_INIT.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_efuse.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_flash.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_gpio.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_config.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_drv.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_pipe.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_ipc_sema.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_lvd.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_profile.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_prot.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sar.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysanalog.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysclk.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_sysint.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syslib_gcc.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_syspm.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_systick.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_trigmux.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_wdt.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_sysint_cfg.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\main_cm0p.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\startup_psoc62_cm0plus.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Listing Files\system_psoc62_cm0plus.lst</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Analog.elf</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Analog.hex</v>
-<v>Workspace02\Analog\CortexM0p\ARM_GCC_541\Debug\Analog.map</v>
-<v>Workspace02\Analog\CortexM4</v>
-<v>Workspace02\Analog\CortexM4\ARM_GCC_541</v>
-<v>Workspace02\Analog\CortexM4\ARM_GCC_541\Debug</v>
-<v>Workspace02\Analog\CortexM4\ARM_GCC_541\Debug\Listing Files</v>
-<v>Workspace02\Analog\CortexM4\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
-<v>Workspace02\Analog\CortexM4\ARM_GCC_541\Debug\Listing Files\ADC_INIT.lst</v>
-<v>Workspace02\Analog\CortexM4\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
-<v>Workspace02\Analog\CortexM4\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -608,19 +576,19 @@
 <v>Workspace02\Analog\cy_vref_aref_v1_70.pdf</v>
 <v>Workspace02\Analog\GPIO_PDL_v1_0.pdf</v>
 <v>Workspace02\Analog\Scan_ADC_P6_v2_10.pdf</v>
+<v>Workspace02\Blinky</v>
+<v>Workspace02\Blinky\PSoC 6 Architecture TRM</v>
+<v>Workspace02\Blinky\PSoC 62 Family Datasheet</v>
+<v>Workspace02\Blinky\Peripheral Driver Library</v>
+<v>Workspace02\Blinky\System Reference Guides</v>
+<v>Workspace02\Blinky\GPIO_PDL_v1_0</v>
+<v>Workspace02\Blinky\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>Workspace02\Blinky\not_v1_0.pdf</v>
 <v>Workspace02\Debug</v>
 <v>Workspace02\Debug\PSoC 6 Architecture TRM</v>
 <v>Workspace02\Debug\PSoC 62 Family Datasheet</v>
 <v>Workspace02\Debug\Peripheral Driver Library</v>
 <v>Workspace02\Debug\System Reference Guides</v>
-<v>Workspace02\Design01</v>
-<v>Workspace02\Design01\PSoC 6 Architecture TRM</v>
-<v>Workspace02\Design01\PSoC 62 Family Datasheet</v>
-<v>Workspace02\Design01\Peripheral Driver Library</v>
-<v>Workspace02\Design01\System Reference Guides</v>
-<v>Workspace02\Design01\GPIO_PDL_v1_0</v>
-<v>Workspace02\Design01\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
-<v>Workspace02\Design01\not_v1_0.pdf</v>
 <v>Workspace02\Interrupts</v>
 <v>Workspace02\Interrupts\PSoC 6 Architecture TRM</v>
 <v>Workspace02\Interrupts\PSoC 62 Family Datasheet</v>
@@ -654,19 +622,19 @@
 <v>Workspace02\Analog\cy_vref_aref_v1_70.pdf</v>
 <v>Workspace02\Analog\GPIO_PDL_v1_0.pdf</v>
 <v>Workspace02\Analog\Scan_ADC_P6_v2_10.pdf</v>
+<v>Workspace02\Blinky</v>
+<v>Workspace02\Blinky\PSoC 6 Architecture TRM</v>
+<v>Workspace02\Blinky\PSoC 62 Family Datasheet</v>
+<v>Workspace02\Blinky\Peripheral Driver Library</v>
+<v>Workspace02\Blinky\System Reference Guides</v>
+<v>Workspace02\Blinky\GPIO_PDL_v1_0</v>
+<v>Workspace02\Blinky\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>Workspace02\Blinky\not_v1_0.pdf</v>
 <v>Workspace02\Debug</v>
 <v>Workspace02\Debug\PSoC 6 Architecture TRM</v>
 <v>Workspace02\Debug\PSoC 62 Family Datasheet</v>
 <v>Workspace02\Debug\Peripheral Driver Library</v>
 <v>Workspace02\Debug\System Reference Guides</v>
-<v>Workspace02\Design01</v>
-<v>Workspace02\Design01\PSoC 6 Architecture TRM</v>
-<v>Workspace02\Design01\PSoC 62 Family Datasheet</v>
-<v>Workspace02\Design01\Peripheral Driver Library</v>
-<v>Workspace02\Design01\System Reference Guides</v>
-<v>Workspace02\Design01\GPIO_PDL_v1_0</v>
-<v>Workspace02\Design01\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
-<v>Workspace02\Design01\not_v1_0.pdf</v>
 <v>Workspace02\Interrupts</v>
 <v>Workspace02\Interrupts\PSoC 6 Architecture TRM</v>
 <v>Workspace02\Interrupts\PSoC 62 Family Datasheet</v>
