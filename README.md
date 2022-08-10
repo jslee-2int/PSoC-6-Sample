@@ -2,14 +2,14 @@
 
 소스코드 블록 예시
 
-'''c
+```c
 #include <stdio.h>
 
 int main(void) {
-	printf("Hello World!");
-	return 0;
+  printf("Hello World!");
+  return 0;
 }
-'''
+```
 
 테이블 작성 예시
 
