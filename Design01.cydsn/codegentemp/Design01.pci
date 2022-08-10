@@ -1,0 +1,11 @@
+# Design01
+# 2022-07-29 00:43:59Z
+
+dont_use_location BLE -1 -1 0
+dont_use_location p4blecell -1 -1 0
+set_location "ClockGenBlock" CLK_GEN -1 -1 0
+set_io "CY_CPUSS_SWJ_SWCLK_TCLK(0)" iocell 6 7
+set_io "CY_CPUSS_SWJ_SWDIO_TMS(0)" iocell 6 6
+set_io "Button(0)" iocell 0 4
+set_io "RedLight(0)" iocell 0 3
+set_io "GreendLight(0)" iocell 1 1

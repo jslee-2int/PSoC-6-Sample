@@ -1,0 +1,10 @@
+# Analog
+# 2022-07-29 06:27:43Z
+
+dont_use_location BLE -1 -1 0
+dont_use_location p4blecell -1 -1 0
+set_location "ClockGenBlock" CLK_GEN -1 -1 0
+set_io "CY_CPUSS_SWJ_SWCLK_TCLK(0)" iocell 6 7
+set_io "CY_CPUSS_SWJ_SWDIO_TMS(0)" iocell 6 6
+set_io "Channel0(0)" iocell 9 5
+set_location "\ADC:SAR\" SARADC -1 -1 0

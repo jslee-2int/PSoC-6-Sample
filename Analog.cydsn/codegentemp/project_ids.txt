@@ -1,0 +1,12 @@
+D:\Documents\PSoC Creator\Workspace02\Design01.cydsn\Design01.cyprj|c6f953de-e93b-4cb9-8880-5482fe87a85c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|4f5b9ee6-88ea-4e05-b729-42e1d413abd0
+D:\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|833c757d-7f54-4260-b56d-a1798bd9367d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|7d6de1bd-ad7d-4683-bf16-10631e270329
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|64dab860-c7cb-4be9-9eb7-b1838755dc7b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|3439d02f-897f-4232-a52a-1123b9ce2dc0
+D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\Printf.cyprj|b8bb03b9-1fa1-4a95-be86-94fdbf53d28f
+D:\Documents\PSoC Creator\Workspace02\Saleae.cydsn\Saleae.cyprj|b248a0ff-9cb6-46a9-97f4-96fd96e08722
+D:\Documents\PSoC Creator\Workspace02\Debug.cydsn\Debug.cyprj|a609bc2a-9040-4bcd-bcf8-62ddabd1da08
+D:\Documents\PSoC Creator\Workspace02\Interrupts.cydsn\Interrupts.cyprj|27bc4306-88a2-4d1f-b81b-44a2b0bea407
+D:\Documents\PSoC Creator\Workspace02\Bluetooth.cydsn\Bluetooth.cyprj|dba4ed22-bba0-45be-b89e-526ad2f0beb5
+D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\Analog.cyprj|99695e4d-5926-45fa-b7b7-aeae58f98a60

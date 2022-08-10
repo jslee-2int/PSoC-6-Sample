@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="us-ascii"?>
+
+<fileSet version="1" anchorPath="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp" xsi:schemaLocation="http://cypress.com/xsd/cypathdictionary cypathdictionary.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://cypress.com/xsd/cypathdictionary">
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cyfitter_cfg.h" value="HEADER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cyfitter_sysint_cfg.h" value="HEADER;;;;;Pins and Interrupts" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cyfitter_sysint_cfg.c" value="SOURCE_C;CortexM0p,CortexM4;;;;Pins and Interrupts" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cyfitter_cfg.c" value="SOURCE_C;CortexM0p;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cymetadata.c" value="SOURCE_C;CortexM0p,CortexM4;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cydevice_trm.h" value="HEADER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cydevicegnu_trm.inc" value="HEADER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cydevicerv_trm.inc" value="HEADER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cydeviceiar_trm.inc" value="HEADER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cyfitter.h" value="HEADER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cyfitter_gpio.h" value="HEADER;;;;;Pins and Interrupts" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cyfitter_sysint.h" value="HEADER;;;;;Pins and Interrupts" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cydisabledsheets.h" value="HEADER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\UART.c" value="SOURCE_C;CortexM0p,CortexM4;;;;UART" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\UART.h" value="HEADER;;;;;UART" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\UART_SCBCLK.h" value="HEADER;;;;;UART_SCBCLK" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\project.h" value="OTHER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cycodeshareimport.ld" value="OTHER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cycodeshareexport.ld" value="OTHER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Printf.cydsn\codegentemp\cycodeshareimport.scat" value="OTHER;;;;;" />
+</fileSet>

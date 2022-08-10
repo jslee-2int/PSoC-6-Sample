@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="us-ascii"?>
+
+<fileSet version="1" anchorPath="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp" xsi:schemaLocation="http://cypress.com/xsd/cypathdictionary cypathdictionary.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://cypress.com/xsd/cypathdictionary">
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cyfitter_cfg.h" value="HEADER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cyfitter_sysint_cfg.h" value="HEADER;;;;;Pins and Interrupts" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cyfitter_sysint_cfg.c" value="SOURCE_C;CortexM0p,CortexM4;;;;Pins and Interrupts" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cyfitter_cfg.c" value="SOURCE_C;CortexM0p;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cymetadata.c" value="SOURCE_C;CortexM0p,CortexM4;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cydevice_trm.h" value="HEADER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cydevicegnu_trm.inc" value="HEADER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cydevicerv_trm.inc" value="HEADER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cydeviceiar_trm.inc" value="HEADER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cyfitter.h" value="HEADER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cyfitter_gpio.h" value="HEADER;;;;;Pins and Interrupts" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cyfitter_sysint.h" value="HEADER;;;;;Pins and Interrupts" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cydisabledsheets.h" value="HEADER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\ADC.c" value="SOURCE_C;CortexM0p,CortexM4;;;;ADC" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\ADC.h" value="HEADER;;;;;ADC" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\ADC_INT.c" value="SOURCE_C;CortexM0p,CortexM4;;;;ADC" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\ADC_INIT.c" value="SOURCE_C;CortexM0p,CortexM4;;;;ADC" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\ADC_PM.c" value="SOURCE_C;CortexM0p,CortexM4;;;;ADC" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\ADC_intSarClock.h" value="HEADER;;;;;ADC_intSarClock" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\project.h" value="OTHER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cycodeshareimport.ld" value="OTHER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cycodeshareexport.ld" value="OTHER;;;;;" />
+  <file name="D:\Documents\PSoC Creator\Workspace02\Analog.cydsn\codegentemp\cycodeshareimport.scat" value="OTHER;;;;;" />
+</fileSet>
